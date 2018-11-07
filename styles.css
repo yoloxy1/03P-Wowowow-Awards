@@ -23,3 +23,10 @@ font-family: 'Pattaya', sans-serif;
 p {color:white;
 font-size:30px;
 }
+
+.movie {
+    color: red;
+}
+.artist {
+    color:pink;
+}
